@@ -1,0 +1,23 @@
+# Секреты и конфиги
+my_settings.py
+credentials.json
+token.pickle
+
+# Временные файлы
+temp_videos/
+*.mp4
+*.log
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Файлы IDE
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# Файлы сессий
+*.session
